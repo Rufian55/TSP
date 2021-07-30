@@ -1,10 +1,3 @@
-/*******************************************************************************
-* Threads.h abstract header file for Threads.cpp
-* CS-325-400-W17	Project 4		17 March 2017
-* Jonathan Horton	hortonjo@oregonstate.edu
-* Chris Kearns		kearnsc@oregonstate.edu
-* Dustin Pack		packdu@oregonstate.edu
-*******************************************************************************/
 #ifndef THREADS_H
 #define THREADS_H
 
