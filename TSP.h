@@ -1,10 +1,3 @@
-/*******************************************************************************
-* TSP.h is the header file for TSP.cpp
-* CS-325-400-W17	Project 4		17 March 2017
-* Jonathan Horton	hortonjo@oregonstate.edu
-* Chris Kearns		kearnsc@oregonstate.edu
-* Dustin Pack		packdu@oregonstate.edu
-*******************************************************************************/
 #ifndef TSP_H
 #define TSP_H
 
